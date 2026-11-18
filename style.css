@@ -42,3 +42,16 @@ a {
     color: #2563eb;
     text-decoration: none;
 }
+
+
+.footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #222;
+    color: white;
+    margin-top: 30px;
+}
+
+.footer p {
+    margin: 5px 0;
+}
